@@ -4,7 +4,7 @@
   "scripts": {
     "start": "node api/index.js"
   },
-  "author": "",
+  "author": "otechq",
   "license": "ISC",
   "description": "",
   "dependencies": {
